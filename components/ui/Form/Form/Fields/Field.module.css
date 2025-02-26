@@ -1,0 +1,5 @@
+.input_placeholder::placeholder {
+    font-style: italic;
+    font-weight: 400;
+    text-transform: none;
+}
